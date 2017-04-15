@@ -1,6 +1,19 @@
 # OSX-Knowledge
 The OSX knowledge of a developer
 
+Table of Contents
+<!-- TOC -->
+
+- [OSX-Knowledge](#osx-knowledge)
+    - [Cycle Count](#cycle-count)
+    - [Close window vs Quit app](#close-window-vs-quit-app)
+    - [OSX App](#osx-app)
+    - [System Tweak](#system-tweak)
+            - [Make key repeat as fast as possible:](#make-key-repeat-as-fast-as-possible)
+            - [Try to open everything from Terminal](#try-to-open-everything-from-terminal)
+
+<!-- /TOC -->
+
 ## Cycle Count
 
 One Cycle Count is counted as one fully battery charged
