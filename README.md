@@ -8,9 +8,10 @@ Table of Contents
     - [Cycle Count](#cycle-count)
     - [Close window vs Quit app](#close-window-vs-quit-app)
     - [OSX App](#osx-app)
-    - [System Tweak](#system-tweak)
+    - [System Tweak & Productivity Tips](#system-tweak--productivity-tips)
             - [Make key repeat as fast as possible:](#make-key-repeat-as-fast-as-possible)
             - [Try to open everything from Terminal](#try-to-open-everything-from-terminal)
+        - [Copy current file path](#copy-current-file-path)
 
 <!-- /TOC -->
 
@@ -54,7 +55,7 @@ This is the selective list of OSX app that I chose. The choice is based on: best
 - [Feedly](https://feedly.com/)
 - [Memory Cleaner 2](https://itunes.apple.com/us/app/memory-clean-2-monitor-and-free-up-memory/id1114591412?mt=12)
 
-## System Tweak
+## System Tweak & Productivity Tips
 
 #### Make key repeat as fast as possible:
 
@@ -74,3 +75,7 @@ With Intellij Idea, if I want to open current directory from terminal, I just ne
 
 - Open Intellij Idea
 - Tools -> Create Command-line launcher
+
+### Copy current file path
+
+Use Cmd+C and Cmd+V to on file to copy and paste its path to the terminal
