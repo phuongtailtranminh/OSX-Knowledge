@@ -11,7 +11,9 @@ Table of Contents
     - [System Tweak & Productivity Tips](#system-tweak--productivity-tips)
             - [Make key repeat as fast as possible:](#make-key-repeat-as-fast-as-possible)
             - [Try to open everything from Terminal](#try-to-open-everything-from-terminal)
-        - [Copy current file path](#copy-current-file-path)
+            - [Copy current file path](#copy-current-file-path)
+            - [Install MySQL](#install-mysql)
+            - [Quickly navigate through line](#quickly-navigate-through-line)
 
 <!-- /TOC -->
 
@@ -76,6 +78,19 @@ With Intellij Idea, if I want to open current directory from terminal, I just ne
 - Open Intellij Idea
 - Tools -> Create Command-line launcher
 
-### Copy current file path
+#### Copy current file path
 
 Use Cmd+C and Cmd+V to on file to copy and paste its path to the terminal
+
+#### Install MySQL
+
+Note: you can use homebrew to install MySQL as a package, but I prefer install the official binary from home page
+
+- Download MySQL at: [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
+- **Note that after you've just installed, a dialog will show you root password (1) for the first login**
+- Use the password (1) to login as root, then feel free to change by follow this article: [https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html](https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html)
+
+#### Quickly navigate through line
+
+- To go to the top and bottom of the line: Cmd + Right arrow, Cmd + Left Arrow
+- To nagivate through word: Alt/Option + Right Arrow/Left Arrow 
