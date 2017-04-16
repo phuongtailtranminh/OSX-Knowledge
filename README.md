@@ -14,6 +14,7 @@ Table of Contents
             - [Copy current file path](#copy-current-file-path)
             - [Install MySQL](#install-mysql)
             - [Quickly navigate through line](#quickly-navigate-through-line)
+            - [Hide the 'annoying' guest user](#hide-the-annoying-guest-user)
 
 <!-- /TOC -->
 
@@ -94,3 +95,7 @@ Note: you can use homebrew to install MySQL as a package, but I prefer install t
 
 - To go to the top and bottom of the line: Cmd + Right arrow, Cmd + Left Arrow
 - To nagivate through word: Alt/Option + Right Arrow/Left Arrow 
+
+#### Hide the 'annoying' guest user
+
+- System Preferences -> Users & Groups -> Click the lock the make changes -> Select 'Guest User' -> un-tick the 'Allow guest to login this computer' 
