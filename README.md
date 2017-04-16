@@ -15,6 +15,8 @@ Table of Contents
             - [Install MySQL](#install-mysql)
             - [Quickly navigate through line](#quickly-navigate-through-line)
             - [Hide the 'annoying' guest user](#hide-the-annoying-guest-user)
+            - [Clean tutorial](#clean-tutorial)
+            - [Thermal Compound](#thermal-compound)
 
 <!-- /TOC -->
 
@@ -99,4 +101,20 @@ Note: you can use homebrew to install MySQL as a package, but I prefer install t
 
 #### Hide the 'annoying' guest user
 
-- System Preferences -> Users & Groups -> Click the lock the make changes -> Select 'Guest User' -> un-tick the 'Allow guest to login this computer' 
+- System Preferences -> Users & Groups -> Click the lock the make changes -> Select 'Guest User' -> un-tick the 'Allow guest to login this computer'
+
+#### Clean tutorial
+
+The materials used to make Apple products vary; in some cases, each product might have specific cleaning requirements which vary by the part you're cleaning. To get you started, here are some tips that apply to all products:
+- Use only a soft, lint-free cloth. Avoid abrasive cloths, towels, paper towels, and similar items that might cause damage. 
+- Unplug all external power sources, devices, and cables.
+- Keep liquids away from the product.
+- Don't get moisture into any openings.
+- Don't use aerosol sprays, solvents, or abrasives.
+- Don't spray cleaners directly onto the item.
+
+[Reference](https://support.apple.com/en-us/HT204172)
+
+#### Thermal Compound
+
+I used **Phanteks Nano Diamond** and its feel very good
