@@ -124,7 +124,7 @@ I used **Phanteks Nano Diamond** and its feel very good
 
 "The utilities in macOS Recovery help you restore from Time Machine, reinstall macOS, get help online, repair or erase a hard disk, and more."
 
-Reboot -> Right after startup sound -> Cmd + R
+Reboot -> Right after startup sound -> **Cmd + R**
 
 [Reference](https://support.apple.com/en-us/HT201314)
 
@@ -132,7 +132,7 @@ Reboot -> Right after startup sound -> Cmd + R
 
 "Apple Hardware Test (AHT) contains a suite of diagnostics that test the hardware of your Mac."
 
-Reboot -> Right after startup sound -> press and hold the D key
+Reboot -> Right after startup sound -> **press and hold the D key**
 
 [Reference](https://support.apple.com/en-us/HT201257)
 
@@ -140,6 +140,6 @@ Reboot -> Right after startup sound -> press and hold the D key
 
 "NVRAM (nonvolatile random-access memory) is a small amount of memory that your Mac uses to store certain settings and access them quickly. Settings that can be stored in NVRAM include sound volume, display resolution, startup-disk selection, time zone, and recent kernel panic information. The settings stored in NVRAM depend on your Mac and the devices you're using with your Mac."
 
-![Reset NVRAM](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/keyboards/macos-nvram-command-key.png =72x)
+Reboot -> Right after startup sound -> **Option + Cmd + P + R**
 
 [Reference](https://support.apple.com/en-us/HT204063)
