@@ -119,3 +119,19 @@ The materials used to make Apple products vary; in some cases, each product migh
 #### Thermal Compound
 
 I used **Phanteks Nano Diamond** and its feel very good
+
+### Recovery Mode
+
+"The utilities in macOS Recovery help you restore from Time Machine, reinstall macOS, get help online, repair or erase a hard disk, and more."
+
+Reboot -> Right after startup sound -> Cmd + R
+
+[Reference](https://support.apple.com/en-us/HT201314)
+
+### Apple Hardware Test (AHT)
+
+"Apple Hardware Test (AHT) contains a suite of diagnostics that test the hardware of your Mac."
+
+Reboot -> Right after startup sound -> press and hold the D key
+
+[Reference](https://support.apple.com/en-us/HT201257)
