@@ -135,3 +135,11 @@ Reboot -> Right after startup sound -> Cmd + R
 Reboot -> Right after startup sound -> press and hold the D key
 
 [Reference](https://support.apple.com/en-us/HT201257)
+
+### Reset NVRAM
+
+"NVRAM (nonvolatile random-access memory) is a small amount of memory that your Mac uses to store certain settings and access them quickly. Settings that can be stored in NVRAM include sound volume, display resolution, startup-disk selection, time zone, and recent kernel panic information. The settings stored in NVRAM depend on your Mac and the devices you're using with your Mac."
+
+![Reset NVRAM](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/keyboards/macos-nvram-command-key.png)
+
+[Reference](https://support.apple.com/en-us/HT204063)
