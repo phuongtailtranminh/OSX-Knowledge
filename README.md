@@ -150,4 +150,6 @@ Reboot -> Right after startup sound -> **Option + Cmd + P + R**
 
 You can change shortcut at **Keyboard -> Shortcuts -> Screen Shots**
 
+### Toggle iTunes to Mini Player
 
+** Cmd + Shift + M
