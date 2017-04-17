@@ -143,3 +143,11 @@ Reboot -> Right after startup sound -> **press and hold the D key**
 Reboot -> Right after startup sound -> **Option + Cmd + P + R**
 
 [Reference](https://support.apple.com/en-us/HT204063)
+
+### Screenshot to clipboard
+
+**Cmd + Control + Shift + 4** (press Space if you want to capture entire window)
+
+You can change shortcut at **Keyboard -> Shortcuts -> Screen Shots**
+
+
