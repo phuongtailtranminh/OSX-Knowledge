@@ -142,4 +142,4 @@ Reboot -> Right after startup sound -> press and hold the D key
 
 ![Reset NVRAM](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/keyboards/macos-nvram-command-key.png)
 
-[Reference](https://support.apple.com/en-us/HT204063)
+[Reference](https://support.apple.com/en-us/HT204063 =72x)
