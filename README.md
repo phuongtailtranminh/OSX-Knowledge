@@ -152,4 +152,4 @@ You can change shortcut at **Keyboard -> Shortcuts -> Screen Shots**
 
 ### Toggle iTunes to Mini Player
 
-** Cmd + Shift + M
+** Cmd + Shift + M**
