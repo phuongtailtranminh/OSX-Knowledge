@@ -95,6 +95,14 @@ Note: you can use homebrew to install MySQL as a package, but I prefer install t
 - **Note that after you've just installed, a dialog will show you root password (1) for the first login**
 - Use the password (1) to login as root, then feel free to change by follow this article: [https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html](https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html)
 
+MySQL 5.7.6 and later:
+
+*ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';*
+
+MySQL 5.7.5 and earlier:
+
+*SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');*
+
 #### Quickly navigate through line
 
 - To go to the top and bottom of the line: Cmd + Right arrow, Cmd + Left Arrow
