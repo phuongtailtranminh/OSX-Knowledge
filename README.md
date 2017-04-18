@@ -152,4 +152,8 @@ You can change shortcut at **Keyboard -> Shortcuts -> Screen Shots**
 
 ### Toggle iTunes to Mini Player
 
-** Cmd + Shift + M**
+**Cmd + Shift + M**
+
+### Launch iTerm2 at startup without opening windows
+
+Go to iTerm 2 preference (Cmd + ,) -> Tab **General** -> Startup: Don't Open Any Windows
