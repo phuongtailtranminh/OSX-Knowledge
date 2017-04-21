@@ -61,6 +61,7 @@ This is the selective list of OSX app that I chose. The choice is based on: best
 - [Memory Cleaner 2](https://itunes.apple.com/us/app/memory-clean-2-monitor-and-free-up-memory/id1114591412?mt=12)
 - Video player: [VLC](http://www.videolan.org/vlc/)
 - Torrent Client: [Transmission](https://transmissionbt.com/download/)
+- Create bootable installation usb: [Install Disk Creator](https://macdaddy.io/install-disk-creator/) Support OSX Sierra 10.12+
 
 ## System Tweak & Productivity Tips
 
